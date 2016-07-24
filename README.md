@@ -7,8 +7,8 @@ The learning based method given in [this blog](http://aishack.in/tutorials/sudok
 This project uses the Caffe framework to run the CNN.
 
 1. Download the latest Caffe version [here](https://github.com/BVLC/caffe).
-2. Copy the contents of `models/` folder into the `caffe/models` folder.
-3. Copy the contents of `examples/` folder into the `caffe/examples` folder.
+2. Copy the contents of `models/` folder into the `caffe/models/` folder.
+3. Copy the contents of `examples/` folder into the `caffe/examples/` folder.
 4. Build Caffe according to the instructions given on their website.
 5. From the `caffe/` folder, run the following command
 ```shell
