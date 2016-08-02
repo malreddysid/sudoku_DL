@@ -218,7 +218,6 @@ void mergeRelatedLines(vector<Vec2f> *lines, Mat &img)
 
 void getImage(char *image_file, int **puzzle)
 {
-    
     Mat image = imread(image_file, CV_LOAD_IMAGE_GRAYSCALE);
     GaussianBlur(image, image, Size(5,5), 0);
     Mat thresholded_image;
