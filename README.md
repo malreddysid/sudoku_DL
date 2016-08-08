@@ -24,3 +24,7 @@ Edit the line, build caffe again and run the command.
 ## Implementation
 
 You can read more about the implementation in my blog [here](https://malreddysid.github.io/deep_learning/2016/07/23/sudoku-solver-dl.html).
+
+## TODO
+
+* Improve the accuracy by finetuning with more data.
